@@ -10,7 +10,7 @@ Overall, the key areas I'd focus on are weekend staffing, understanding the seas
 
 ## 📊 Dashboard
 
-![Call Centre Dashboard](images/Excel Project 1.png)
+![Call Centre Dashboard]images/Excel Project 1.png
 
 “The main takeaways are:
 
