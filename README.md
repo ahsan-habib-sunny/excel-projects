@@ -8,7 +8,9 @@ In terms of regional performance, R02 had the highest call volume with 218 calls
 Customer satisfaction is relatively positive, with an average rating of 3.9 and 307 customers giving a 5-star rating. However, there are still 265 customers rating their experience 3 or below, which gives us an opportunity to investigate the main drivers of dissatisfaction.
 Overall, the key areas I'd focus on are weekend staffing, understanding the seasonal changes in call volume, and investigating low-rated interactions to improve customer satisfaction.”
 
-🎯 If you want it even shorter for an actual meeting:
+## 📊 Dashboard
+
+![Call Centre Dashboard](images/Excel Project 1.png)
 
 “The main takeaways are:
 
@@ -19,3 +21,5 @@ Weekend demand was highest, particularly Saturday
 R02 had the most calls, but R03 generated the most revenue
 265 customers rated their experience 3 or below
 Key actions: optimise weekend staffing and investigate low-satisfaction calls.”
+
+
